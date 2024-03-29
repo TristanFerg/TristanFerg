@@ -7,7 +7,6 @@
 
 ---
 <br/>
-
 ## ⚡ About
 - Study --> Computer Science 💻 
 - Origin --> New Zealand 🇳🇿
@@ -16,7 +15,6 @@
 
 ---
 <br/>
-
 ## 📚 Tech Stack 
 <a href="https://github.com/TristanFerg?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://github.com/TristanFerg?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -29,7 +27,6 @@
 
 ---
 <br/>
-
 ## 📫 Find me on...
 <a href="https://www.linkedin.com/in/tristan-ferguson-361895241//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
